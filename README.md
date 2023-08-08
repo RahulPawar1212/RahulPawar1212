@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Experienced in data analytics, data science, data engineering, Python, and web development, with a focus on automation, data pipelining, and a strong passion for IoT innovations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpawar1212&label=Profile%20views&color=0e75b6&style=flat" alt="rahulpawar1212" /> </p>
 
